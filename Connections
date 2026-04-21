@@ -1,0 +1,11 @@
+ Red LED
+ • Anode (+) → GPIO 25 (ESP32)
+ • Cathode (–) → Resistor → GND
+
+Yellow LED
+ • Anode (+) → GPIO 26
+ • Cathode (–) → Resistor → GND
+
+Green LED
+ • Anode (+) → GPIO 27
+ • Cathode (–) → Resistor → GND
